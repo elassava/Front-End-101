@@ -1,0 +1,63 @@
+.vt323-regular {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h2 {
+    color: rgb(95, 67, 134);
+
+  }
+
+  section {
+    text-align: center;
+    font-family: "VT323", monospace;
+  }
+
+  article {
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  
+  body {
+    background-color: antiquewhite;
+    font-family: "VT323", monospace;
+    margin: 0px;
+  }
+
+  header nav ul  {
+    background-color: rgb(48, 41, 88);
+    color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  footer nav ul  {
+    background-color: rgb(48, 41, 88);
+    color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  li {
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+
+  a {
+    color: antiquewhite;
+  }
+
+  img {
+    margin-bottom: 10px;
+  }
+
+  section {
+    min-height: 100vh; 
+}
+
+
